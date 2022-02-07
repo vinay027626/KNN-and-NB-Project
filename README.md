@@ -2,8 +2,6 @@
 
 # Goal
 
-- [Knn and Nb Project](1_Knn_Nb_Project.ipynb)
-
   - A live example on classifying Biomechanical Features of Orthopedic Patients: 
 
     - Accessing the Data
